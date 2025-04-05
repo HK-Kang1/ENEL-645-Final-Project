@@ -17,7 +17,4 @@ Each model is fine-tuned with custom layers and evaluated for performance across
 
 In addition to classification, the project uses **Grad-CAM** (Gradient-weighted Class Activation Mapping) to visualize which regions of the face the models focus on during prediction, providing insight into the model's decision-making process.
 
-> 📈 **Key Finding**:  
-> **MobileNetV2** outperformed the other models, offering the best balance of accuracy and efficiency.
-
 This study highlights how deep learning can improve **automated age recognition**, with potential benefits in **fraud prevention, targeted services, and personalized healthcare**.
